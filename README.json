@@ -67,7 +67,7 @@
             "last_commit": "2023-04-03T23:20:25Z",
             "owner": "hetio",
             "repo": "hetionet",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -660,7 +660,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T02:15:11Z",
+            "last_commit": "2026-08-14T20:18:20Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2549
@@ -688,7 +688,7 @@
           "repo_info": {
             "archived": false,
             "language": "Cuda",
-            "last_commit": "2026-08-13T16:46:35Z",
+            "last_commit": "2026-08-15T00:47:55Z",
             "owner": "rapidsai",
             "repo": "cugraph",
             "stars": 2217
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:08:49.076Z",
+    "last_updated": "2026-08-15T01:58:42.442Z",
     "original_repository": "briatte/awesome-network-analysis",
     "original_repository_sha": "28d9400a850fc36a69f98c14bdf30d77062bec64",
     "enhanced_repository": "enhansome/enhansome-network-analysis",
