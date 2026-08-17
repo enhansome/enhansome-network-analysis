@@ -53,7 +53,7 @@
             "last_commit": "2026-08-08T13:16:42Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6613
+            "stars": 6615
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2023-04-03T23:20:25Z",
             "owner": "hetio",
             "repo": "hetionet",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -248,7 +248,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-27T16:52:35Z",
+            "last_commit": "2026-08-16T17:02:10Z",
             "owner": "gephi",
             "repo": "graphstore",
             "stars": 92
@@ -313,7 +313,7 @@
             "last_commit": "2026-07-16T07:11:35Z",
             "owner": "gephi",
             "repo": "gephi-lite",
-            "stars": 342
+            "stars": 343
           }
         },
         {
@@ -660,7 +660,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T02:07:38Z",
+            "last_commit": "2026-08-16T13:03:38Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2550
@@ -733,7 +733,7 @@
             "last_commit": "2025-12-20T17:20:57Z",
             "owner": "benedekrozemberczki",
             "repo": "littleballoffur",
-            "stars": 715
+            "stars": 714
           }
         },
         {
@@ -758,7 +758,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T22:59:19Z",
+            "last_commit": "2026-08-16T11:54:03Z",
             "owner": "GiulioRossetti",
             "repo": "cdlib",
             "stars": 429
@@ -1093,7 +1093,7 @@
                 "last_commit": "2026-08-08T07:42:44Z",
                 "owner": "egeerardyn",
                 "repo": "awesome-LaTeX",
-                "stars": 1659
+                "stars": 1660
               }
             }
           ]
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:07:57.886Z",
+    "last_updated": "2026-08-17T02:05:50.076Z",
     "original_repository": "briatte/awesome-network-analysis",
     "original_repository_sha": "28d9400a850fc36a69f98c14bdf30d77062bec64",
     "enhanced_repository": "enhansome/enhansome-network-analysis",
