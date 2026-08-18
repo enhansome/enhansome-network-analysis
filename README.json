@@ -53,7 +53,7 @@
             "last_commit": "2026-08-08T13:16:42Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6615
+            "stars": 6616
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2023-04-03T23:20:25Z",
             "owner": "hetio",
             "repo": "hetionet",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -248,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T17:02:10Z",
+            "last_commit": "2026-08-17T18:29:48Z",
             "owner": "gephi",
             "repo": "graphstore",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -374,7 +374,7 @@
                 "last_commit": "2023-12-30T16:50:14Z",
                 "owner": "d3",
                 "repo": "d3-force",
-                "stars": 1995
+                "stars": 1996
               }
             },
             {
@@ -663,7 +663,7 @@
             "last_commit": "2026-08-16T13:03:38Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
-            "stars": 2550
+            "stars": 2551
           }
         },
         {
@@ -688,7 +688,7 @@
           "repo_info": {
             "archived": false,
             "language": "Cuda",
-            "last_commit": "2026-08-15T04:42:08Z",
+            "last_commit": "2026-08-17T23:22:10Z",
             "owner": "rapidsai",
             "repo": "cugraph",
             "stars": 2217
@@ -702,7 +702,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-07T04:55:06Z",
+            "last_commit": "2026-08-17T22:33:24Z",
             "owner": "Qiskit",
             "repo": "rustworkx",
             "stars": 1738
@@ -1093,7 +1093,7 @@
                 "last_commit": "2026-08-08T07:42:44Z",
                 "owner": "egeerardyn",
                 "repo": "awesome-LaTeX",
-                "stars": 1660
+                "stars": 1661
               }
             }
           ]
@@ -1142,7 +1142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:05:50.076Z",
+    "last_updated": "2026-08-18T02:00:12.800Z",
     "original_repository": "briatte/awesome-network-analysis",
     "original_repository_sha": "28d9400a850fc36a69f98c14bdf30d77062bec64",
     "enhanced_repository": "enhansome/enhansome-network-analysis",
