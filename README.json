@@ -55,10 +55,10 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-22T17:38:21Z",
+            "last_commit": "2026-08-23T14:31:27Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6619
+            "stars": 6620
           }
         },
         {
@@ -327,7 +327,7 @@
                 "last_commit": "2026-07-16T07:11:35Z",
                 "owner": "gephi",
                 "repo": "gephi-lite",
-                "stars": 343
+                "stars": 344
               }
             },
             {
@@ -490,7 +490,7 @@
                 "archived": false,
                 "id": 23362179,
                 "language": "Julia",
-                "last_commit": "2026-08-06T04:19:20Z",
+                "last_commit": "2026-08-23T21:35:07Z",
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
                 "stars": 176
@@ -732,7 +732,7 @@
                 "last_commit": "2026-08-21T16:26:05Z",
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2223
+                "stars": 2224
               }
             },
             {
@@ -747,7 +747,7 @@
                 "last_commit": "2026-08-17T22:33:24Z",
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1745
+                "stars": 1746
               }
             },
             {
@@ -956,7 +956,7 @@
                 "last_commit": "2026-04-27T20:44:12Z",
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1741
+                "stars": 1740
               }
             },
             {
@@ -1206,7 +1206,7 @@
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4799
+            "stars": 4798
           }
         },
         {
@@ -1229,7 +1229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:10:58.596Z",
+    "last_updated": "2026-08-24T02:08:43.977Z",
     "original_repository": "briatte/awesome-network-analysis",
     "original_repository_id": 55921016,
     "original_repository_sha": "bb195fb2655e22fb85b2d48421a368aca2833452",
