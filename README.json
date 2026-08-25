@@ -77,7 +77,7 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-24T08:18:43Z",
+            "last_commit": "2026-08-24T21:31:42Z",
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6620
@@ -279,10 +279,10 @@
                 "archived": false,
                 "id": 157752451,
                 "language": "Cuda",
-                "last_commit": "2026-08-21T16:26:05Z",
+                "last_commit": "2026-08-24T23:35:07Z",
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2224
+                "stars": 2225
               }
             }
           ],
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 157752451,
                 "language": "Cuda",
-                "last_commit": "2026-08-21T16:26:05Z",
+                "last_commit": "2026-08-24T23:35:07Z",
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2224
+                "stars": 2225
               }
             },
             {
@@ -1339,7 +1339,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:23.222Z",
+    "last_updated": "2026-08-25T02:04:47.000Z",
     "original_repository": "briatte/awesome-network-analysis",
     "original_repository_id": 55921016,
     "original_repository_sha": "bb195fb2655e22fb85b2d48421a368aca2833452",
