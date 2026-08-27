@@ -1,8 +1,8 @@
 # Awesome Network Analysis with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,344 | 🐛 105 | 📅 2026-08-21 of resources to construct, analyze and visualize network data.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21 of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,814 | 🐛 84 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,184 | 🐛 0 | 🌐 Python | 📅 2026-08-14 and others. Started in 2016, and irregularly updated since then.
+Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,814 | 🐛 84 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,185 | 🐛 0 | 🌐 Python | 📅 2026-08-14 and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -218,7 +218,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Datasets
 
-* [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets) ⭐ 6,623 | 🐛 458 | 🌐 Java | 📅 2026-08-27.
+* [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets) ⭐ 6,623 | 🐛 453 | 🌐 Java | 📅 2026-08-27.
 * [Hetionet: an integrative network of disease](https://github.com/hetio/hetionet) ⭐ 360 | 🐛 14 | 🌐 HTML | 📅 2023-04-03 - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 * [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet) ⭐ 18 | 🐛 23 | 📅 2017-04-01 - Legislative cosponsorship networks, in R format.
 * [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package](https://github.com/mangal-wg/pymangal) ⚠️ Archived, [R package](https://github.com/mangal-wg/rmangal) ⭐ 16 | 🐛 2 | 🌐 R | 📅 2026-01-22).
@@ -567,7 +567,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### C / C++
 
-> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived and [Awesome C / C++](https://github.com/fffaraz/awesome-cpp) ⭐ 72,956 | 🐛 312 | 📅 2026-08-22 lists.
+> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived and [Awesome C / C++](https://github.com/fffaraz/awesome-cpp) ⭐ 72,960 | 🐛 313 | 📅 2026-08-22 lists.
 
 * [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) ⭐ 2,226 | 🐛 139 | 🌐 Cuda | 📅 2026-08-26 - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 * [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
@@ -583,7 +583,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Java
 
-* [GraphStore](https://github.com/gephi/graphstore) ⭐ 93 | 🐛 9 | 🌐 Java | 📅 2026-08-26 - In-memory graph structure implementation, powering Gephi.
+* [GraphStore](https://github.com/gephi/graphstore) ⭐ 93 | 🐛 10 | 🌐 Java | 📅 2026-08-27 - In-memory graph structure implementation, powering Gephi.
 * [Mixer](https://github.com/keith-turner/mixer) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2018-04-12 - Prototype showing how to use [Apache Fluo](https://fluo.apache.org/) to continuously merge multiple large graphs into a single derived one.
 * [GraphStream](https://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
 
@@ -648,7 +648,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.\
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2012-03-08).\
-> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 316,360 | 🐛 15 | 🌐 Python | 📅 2026-08-25 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,291 | 🐛 8 | 📅 2025-07-17 lists.
+> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 316,380 | 🐛 15 | 🌐 Python | 📅 2026-08-25 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,291 | 🐛 8 | 📅 2025-07-17 lists.
 
 * [PyGraphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 356 | 🌐 Python | 📅 2026-08-27 - Python library to extract, transform, and visually explore big graphs.
 * [karateclub](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17 - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
