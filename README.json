@@ -18,7 +18,8 @@
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "kolaczyk",
                 "repo": "sand",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "maksim2042",
                 "repo": "SNABook",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": null,
@@ -77,11 +80,12 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-27T11:46:59Z",
+            "last_commit": "2026-08-28T07:55:59Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6623
-          }
+            "stars": 6625
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "hetio",
             "repo": "hetionet",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "briatte",
             "repo": "parlnet",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "item",
@@ -126,7 +132,8 @@
             "owner": "mangal-interactions",
             "repo": "pymangal",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         }
       ],
       "title": "Datasets"
@@ -147,7 +154,8 @@
             "owner": "sknetwork-team",
             "repo": "scikit-network",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "item",
@@ -162,7 +170,8 @@
             "owner": "ait-energy",
             "repo": "qgis-edge-bundling",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "item",
@@ -177,7 +186,8 @@
             "owner": "bruce",
             "repo": "graphy",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "item",
@@ -192,7 +202,8 @@
             "owner": "leonarduk",
             "repo": "unison",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "group",
@@ -212,7 +223,8 @@
                 "owner": "szhorvat",
                 "repo": "IGraphM",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ]
         },
@@ -231,7 +243,8 @@
                 "owner": "bagrow",
                 "repo": "linkcomm",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -246,7 +259,8 @@
                 "owner": "sjbeckett",
                 "repo": "weighted-modularity-LPAwbPLUS",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -261,7 +275,8 @@
                 "owner": "clojure",
                 "repo": "algo.graph",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": "Network placement and community detection algorithms that do not fit in any of the next subsections.See also the Awesome Algorithms and Awesome Algorithm Visualization lists for more algorithmic awesomess.",
@@ -279,11 +294,12 @@
                 "archived": false,
                 "id": 157752451,
                 "language": "Cuda",
-                "last_commit": "2026-08-26T20:46:37Z",
+                "last_commit": "2026-08-27T20:16:02Z",
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2226
-              }
+                "stars": 2227
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": "For more awesome C / C++ content, see the Awesome C and Awesome C / C++ lists.",
@@ -301,11 +317,12 @@
                 "archived": false,
                 "id": 10005385,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:07:26Z",
+                "last_commit": "2026-08-27T12:32:07Z",
                 "owner": "gephi",
                 "repo": "graphstore",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -320,7 +337,8 @@
                 "owner": "keith-turner",
                 "repo": "mixer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": null,
@@ -342,7 +360,8 @@
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
                 "stars": 3861
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -357,7 +376,8 @@
                 "owner": "Nhogs",
                 "repo": "popoto",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -371,8 +391,9 @@
                 "last_commit": "2026-07-16T07:11:35Z",
                 "owner": "gephi",
                 "repo": "gephi-lite",
-                "stars": 345
-              }
+                "stars": 347
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -387,7 +408,8 @@
                 "owner": "upphiminn",
                 "repo": "jLouvain",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -402,7 +424,8 @@
                 "owner": "public-accountability",
                 "repo": "oligrapher",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -417,7 +440,8 @@
                 "owner": "networkcube",
                 "repo": "vistorian",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "group",
@@ -436,8 +460,9 @@
                     "last_commit": "2023-12-30T16:50:14Z",
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 1999
-                  }
+                    "stars": 2000
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +477,8 @@
                     "owner": "thepeoplesbourgeois",
                     "repo": "d3-vector",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ]
             }
@@ -481,7 +507,8 @@
                     "owner": "sisl",
                     "repo": "Smile.jl",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ],
               "repo_info": {
@@ -492,7 +519,8 @@
                 "owner": "sisl",
                 "repo": "BayesNets.jl",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -512,7 +540,8 @@
                     "owner": "JuliaGraphs",
                     "repo": "MetaGraphs.jl",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ],
               "repo_info": {
@@ -523,7 +552,8 @@
                 "owner": "JuliaAttic",
                 "repo": "OldGraphs.jl",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -538,7 +568,8 @@
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -553,7 +584,8 @@
                 "owner": "JuliaGraphs",
                 "repo": "MatrixNetworks.jl",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -568,7 +600,8 @@
                 "owner": "JuliaTeX",
                 "repo": "TikzGraphs.jl",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -583,7 +616,8 @@
                 "owner": "PoisotLab",
                 "repo": "EcologicalNetworks.jl",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -598,7 +632,8 @@
                 "owner": "EtymoIO",
                 "repo": "EvolvingGraphs.jl",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -613,7 +648,8 @@
                 "owner": "abhijithanilkumar",
                 "repo": "NetworkViz.jl",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -628,7 +664,8 @@
                 "owner": "Azzaare",
                 "repo": "NetworkFlows.jl",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "group",
@@ -648,7 +685,8 @@
                     "owner": "sbromberger",
                     "repo": "LightGraphs.jl",
                     "stars": 665
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 },
                 {
                   "node_type": "item",
@@ -663,7 +701,8 @@
                     "owner": "JuliaGraphs",
                     "repo": "NetworkLayout.jl",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 },
                 {
                   "node_type": "item",
@@ -678,7 +717,8 @@
                     "owner": "JuliaGraphs",
                     "repo": "LightGraphsExtras.jl",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 },
                 {
                   "node_type": "item",
@@ -693,7 +733,8 @@
                     "owner": "CarloLucibello",
                     "repo": "GraphVisualize.jl",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 },
                 {
                   "node_type": "item",
@@ -708,7 +749,8 @@
                     "owner": "JuliaGraphs",
                     "repo": "GraphCentrality.jl",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 },
                 {
                   "node_type": "item",
@@ -723,7 +765,8 @@
                     "owner": "JuliaGraphs",
                     "repo": "Networks.jl",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ]
             }
@@ -743,11 +786,12 @@
                 "archived": false,
                 "id": 36759907,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:15:35Z",
+                "last_commit": "2026-08-28T10:11:59Z",
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2551
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -762,7 +806,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -773,11 +818,12 @@
                 "archived": false,
                 "id": 157752451,
                 "language": "Cuda",
-                "last_commit": "2026-08-26T20:46:37Z",
+                "last_commit": "2026-08-27T20:16:02Z",
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2226
-              }
+                "stars": 2227
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -791,8 +837,9 @@
                 "last_commit": "2026-08-17T22:33:24Z",
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1750
-              }
+                "stars": 1751
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -806,8 +853,9 @@
                 "last_commit": "2026-06-18T23:46:40Z",
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1008
-              }
+                "stars": 1009
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -822,7 +870,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "littleballoffur",
                 "stars": 714
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -836,8 +885,9 @@
                 "last_commit": "2025-08-09T18:56:08Z",
                 "owner": "plotly",
                 "repo": "dash-cytoscape",
-                "stars": 679
-              }
+                "stars": 678
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -852,7 +902,8 @@
                 "owner": "GiulioRossetti",
                 "repo": "cdlib",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -867,7 +918,8 @@
                 "owner": "rafguns",
                 "repo": "linkpred",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -882,7 +934,8 @@
                 "owner": "snap-stanford",
                 "repo": "snapvx",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -897,7 +950,8 @@
                 "owner": "CHSZLab",
                 "repo": "CHSZLabLib",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -912,7 +966,8 @@
                 "owner": "Yquetzal",
                 "repo": "tnetwork",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -927,7 +982,8 @@
                 "owner": "ike002jp",
                 "repo": "npartite",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -942,7 +998,8 @@
                 "owner": "rraadd88",
                 "repo": "parag",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "group",
@@ -962,7 +1019,8 @@
                     "owner": "ericmjl",
                     "repo": "nxviz",
                     "stars": 485
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 },
                 {
                   "node_type": "item",
@@ -977,7 +1035,8 @@
                     "owner": "livus",
                     "repo": "gdMetriX",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ]
             }
@@ -1001,7 +1060,8 @@
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
                 "stars": 1740
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1076,8 @@
                 "owner": "datastorm-open",
                 "repo": "visNetwork",
                 "stars": 564
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1030,8 +1091,9 @@
                 "last_commit": "2026-04-21T16:16:11Z",
                 "owner": "schochastics",
                 "repo": "networkdata",
-                "stars": 146
-              }
+                "stars": 145
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1108,8 @@
                 "owner": "schochastics",
                 "repo": "edgebundle",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1061,7 +1124,8 @@
                 "owner": "neo4j-rstats",
                 "repo": "neo4r",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1076,7 +1140,8 @@
                 "owner": "stocnet",
                 "repo": "goldfish",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1091,7 +1156,8 @@
                 "owner": "benyamindsmith",
                 "repo": "ig.degree.betweenness",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1106,7 +1172,8 @@
                 "owner": "schochastics",
                 "repo": "netUtils",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1121,7 +1188,8 @@
                 "owner": "schochastics",
                 "repo": "levelnet",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1136,7 +1204,8 @@
                 "owner": "aslez",
                 "repo": "concoR",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1220,8 @@
                 "owner": "chengjun",
                 "repo": "networkdiffusion",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1166,7 +1236,8 @@
                 "owner": "matthewjdenny",
                 "repo": "CCAS",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "item",
@@ -1181,7 +1252,8 @@
                 "owner": "matthewjdenny",
                 "repo": "ContentStructure",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": "For more awesome R resources, see the Awesome R and Awesome R Books lists. See also this Google spreadsheet by Ian McCulloh and others.To convert many different network model results into tidy data frames, see the broom package. To convert many different network model results into LaTeX or HTML tables, see the texreg package.",
@@ -1203,7 +1275,8 @@
                 "owner": "agouge",
                 "repo": "Java-Network-Analyzer",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             },
             {
               "node_type": "group",
@@ -1222,8 +1295,9 @@
                     "last_commit": "2026-08-08T07:42:44Z",
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1665
-                  }
+                    "stars": 1664
+                  },
+                  "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ]
             }
@@ -1247,7 +1321,8 @@
                 "owner": "schochastics",
                 "repo": "centrality",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": "Tutorials that are not focused on a single specific software package or program.",
@@ -1272,8 +1347,9 @@
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4800
-          }
+            "stars": 4801
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1364,8 @@
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
             "stars": 2450
-          }
+          },
+          "first_seen": "2026-08-28T12:05:05.821Z"
         },
         {
           "children": [
@@ -1305,7 +1382,8 @@
                 "owner": "mboudour",
                 "repo": "WordNets",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": "Explorations of fictional character networks.",
@@ -1327,7 +1405,8 @@
                 "owner": "raffaelevacca",
                 "repo": "EUSN-co-citation-networks",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T12:05:05.821Z"
             }
           ],
           "description": "Discussions of what “netsci” is about and means for other scientific disciplines.",
@@ -1339,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:36.502Z",
+    "last_updated": "2026-08-28T12:05:05.821Z",
     "original_repository_info": {
       "archived": false,
       "id": 55921016,
@@ -1347,7 +1426,7 @@
       "last_commit": "2026-08-20T13:22:11Z",
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4099
+      "stars": 4101
     },
     "original_repository_sha": "bb195fb2655e22fb85b2d48421a368aca2833452",
     "enhanced_repository": "enhansome/enhansome-network-analysis",
