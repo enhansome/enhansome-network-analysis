@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorials, datasets, and other material associated with textbook \"A First Course in Network Science\" by Menczer, Fortunato & Davis",
+                "homepage": "https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/",
                 "id": 139834880,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-03T00:56:43Z",
+                "open_issues": 5,
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
-                "stars": 438
+                "stars": 438,
+                "topics": [
+                  "datasets",
+                  "indiana-university",
+                  "network-science",
+                  "networkx",
+                  "python",
+                  "social-network",
+                  "textbook",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -35,12 +49,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Statistical Analysis of Network Data with R, 2nd Edition",
+                "homepage": null,
                 "id": 17140049,
                 "language": "R",
+                "license": null,
                 "last_commit": "2020-07-02T18:31:08Z",
+                "open_issues": 10,
                 "owner": "kolaczyk",
                 "repo": "sand",
-                "stars": 300
+                "stars": 300,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -51,12 +70,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Social Networks for Startups\"",
+                "homepage": null,
                 "id": 2072989,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2012-11-02T16:57:33Z",
+                "open_issues": 3,
                 "owner": "maksim2042",
                 "repo": "SNABook",
-                "stars": 245
+                "stars": 245,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -78,12 +102,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gephi - The Open Graph Viz Platform",
+            "homepage": "http://gephi.org",
             "id": 2624521,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T07:55:59Z",
+            "open_issues": 442,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "graph",
+              "graph-analytics",
+              "interactive",
+              "java",
+              "opengl",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -94,12 +130,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hetionet: an integrative network of disease",
+            "homepage": "https://neo4j.het.io",
             "id": 56091268,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-04-03T23:20:25Z",
+            "open_issues": 14,
             "owner": "hetio",
             "repo": "hetionet",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "data-integration",
+              "drug-repurposing",
+              "hetionet",
+              "hetnet",
+              "neo4j",
+              "network",
+              "rephetio"
+            ]
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -110,12 +159,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bill cosponsorship networks in European parliaments.",
+            "homepage": "http://f.briatte.org/parlviz",
             "id": 27844683,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-01T20:13:36Z",
+            "open_issues": 23,
             "owner": "briatte",
             "repo": "parlnet",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "comparative-politics",
+              "network-analysis",
+              "network-visualization",
+              "parliamentary-monitoring",
+              "parliaments"
+            ]
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -126,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python module for the mangal API",
+            "homepage": null,
             "id": 16031000,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2015-07-15T21:11:23Z",
+            "open_issues": 1,
             "owner": "mangal-interactions",
             "repo": "pymangal",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         }
@@ -148,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph Algorithms",
+            "homepage": null,
             "id": 135287970,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-02T09:32:29Z",
+            "open_issues": 4,
             "owner": "sknetwork-team",
             "repo": "scikit-network",
-            "stars": 633
+            "stars": 633,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -164,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 102349374,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2021-03-05T14:16:52Z",
+            "open_issues": 12,
             "owner": "ait-energy",
             "repo": "qgis-edge-bundling",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -180,12 +255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph Theory library for Ruby",
+            "homepage": null,
             "id": 435124,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-23T16:07:33Z",
+            "open_issues": 2,
             "owner": "bruce",
             "repo": "graphy",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -196,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UNISoN is a Java-based NNTP client that can analyse messages to save to a Pajek-format file for Social Network Analysis. Developed as part of an MSc Business Systems Analysis & Design at City University. ",
+            "homepage": "http://unison.sleonard.co.uk/",
             "id": 56905466,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:58:12Z",
+            "open_issues": 1,
             "owner": "leonarduk",
             "repo": "unison",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -217,12 +302,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IGraph/M is the igraph interface for Mathematica",
+                "homepage": "http://szhorvat.net/mathematica/IGraphM",
                 "id": 41793262,
                 "language": "Mathematica",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-26T12:13:05Z",
+                "open_issues": 34,
                 "owner": "szhorvat",
                 "repo": "IGraphM",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "graph-algorithms",
+                  "graph-theory",
+                  "igraph",
+                  "mathematica",
+                  "mathematics",
+                  "network-analysis",
+                  "network-graph",
+                  "raspberry-pi",
+                  "wolfram-language"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -237,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programs to identify link communities in complex networks",
+                "homepage": null,
                 "id": 904212,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-05T17:35:03Z",
+                "open_issues": 11,
                 "owner": "bagrow",
                 "repo": "linkcomm",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -253,12 +358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Algorithms for finding weighted modularity in bipartite networks",
+                "homepage": null,
                 "id": 18796111,
                 "language": "PostScript",
+                "license": "MIT",
                 "last_commit": "2016-04-27T14:51:11Z",
+                "open_issues": 3,
                 "owner": "sjbeckett",
                 "repo": "weighted-modularity-LPAwbPLUS",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -269,12 +379,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Basic graph theory algorithms",
+                "homepage": null,
                 "id": 15121511,
                 "language": "Clojure",
+                "license": "EPL-1.0",
                 "last_commit": "2017-08-15T21:52:52Z",
+                "open_issues": 0,
                 "owner": "clojure",
                 "repo": "algo.graph",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -292,12 +407,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cuGraph - RAPIDS Graph Analytics Library",
+                "homepage": "https://docs.rapids.ai/api/cugraph/stable/",
                 "id": 157752451,
                 "language": "Cuda",
-                "last_commit": "2026-08-27T20:16:02Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:42:43Z",
+                "open_issues": 140,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2227
+                "stars": 2227,
+                "topics": [
+                  "complex-networks",
+                  "cuda",
+                  "gpu",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-analysis",
+                  "graph-framework",
+                  "graphml",
+                  "nvidia",
+                  "rapids"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -315,12 +446,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast in-memory graph structure, powering Gephi",
+                "homepage": null,
                 "id": 10005385,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T12:32:07Z",
+                "open_issues": 10,
                 "owner": "gephi",
                 "repo": "graphstore",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "analysis",
+                  "gephi",
+                  "graph",
+                  "graphviz",
+                  "java",
+                  "network"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -331,12 +474,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple prototype for creating derived graphs from social network data using Deriggy and Fluo",
+                "homepage": null,
                 "id": 129162170,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-04-12T23:00:50Z",
+                "open_issues": 0,
                 "owner": "keith-turner",
                 "repo": "mixer",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "fluo",
+                  "graphs",
+                  "java",
+                  "social-graph",
+                  "social-network-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -354,12 +508,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph drawing library for JavaScript",
+                "homepage": null,
                 "id": 3003488,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-06T07:34:34Z",
+                "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3861
+                "stars": 3860,
+                "topics": [
+                  "graph",
+                  "graph-algorithms",
+                  "graph-drawing",
+                  "layout-algorithm",
+                  "ngraph",
+                  "visualization",
+                  "vivagraph",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -370,12 +538,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual query builder for Neo4j graph database",
+                "homepage": "http://popotojs.com",
                 "id": 30092104,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-28T07:23:02Z",
+                "open_issues": 20,
                 "owner": "Nhogs",
                 "repo": "popoto",
-                "stars": 534
+                "stars": 534,
+                "topics": [
+                  "cypher",
+                  "cypher-query",
+                  "cypher-query-builder",
+                  "graph",
+                  "neo4j",
+                  "neo4j-database",
+                  "popoto"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -386,12 +567,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web-based, lighter version of Gephi",
+                "homepage": "https://lite.gephi.org",
                 "id": 530290705,
                 "language": "TypeScript",
-                "last_commit": "2026-07-16T07:11:35Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T13:42:40Z",
+                "open_issues": 86,
                 "owner": "gephi",
                 "repo": "gephi-lite",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "dataviz",
+                  "network-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -402,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Louvain community detection for Javascript (http://arxiv.org/abs/0803.0476) (http://en.wikipedia.org/wiki/Community_structure#The_Louvain_method).",
+                "homepage": null,
                 "id": 12594842,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-29T20:08:12Z",
+                "open_issues": 10,
                 "owner": "upphiminn",
                 "repo": "jLouvain",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -418,12 +612,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript app for displaying annotated network graphs based on data from LittleSis",
+                "homepage": "https://littlesis.org/oligrapher",
                 "id": 121553660,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T15:55:47Z",
+                "open_issues": 7,
                 "owner": "public-accountability",
                 "repo": "oligrapher",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "graph-editor",
+                  "graphviz",
+                  "javascript",
+                  "network-graph",
+                  "react",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -434,12 +640,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Interactive open source visualization platform for multivariate dynamic networks.",
+                "homepage": "https://networkcube.github.io/vistorian",
                 "id": 64884268,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-07-18T09:28:28Z",
+                "open_issues": 1,
                 "owner": "networkcube",
                 "repo": "vistorian",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "interactive",
+                  "networks",
+                  "visualization",
+                  "visualization-platform"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -455,12 +671,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Force-directed graph layout using velocity Verlet integration.",
+                    "homepage": "https://d3js.org/d3-force",
                     "id": 45493905,
                     "language": "JavaScript",
+                    "license": "ISC",
                     "last_commit": "2023-12-30T16:50:14Z",
+                    "open_issues": 27,
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 2000
+                    "stars": 1999,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 },
@@ -471,12 +692,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A D3 force plug-in for programmatically determining a set of vectors' angles and magnitudes",
+                    "homepage": null,
                     "id": 77193223,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-08-15T16:46:09Z",
+                    "open_issues": 0,
                     "owner": "thepeoplesbourgeois",
                     "repo": "d3-vector",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 }
@@ -501,24 +727,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Julia wrapper for the Smile C++ Structural Modeling, Inference, and Learning Engine for Bayesian & Influence Networks",
+                    "homepage": null,
                     "id": 24010485,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-09-22T22:33:41Z",
+                    "open_issues": 0,
                     "owner": "sisl",
                     "repo": "Smile.jl",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian Networks for Julia",
+                "homepage": null,
                 "id": 23196361,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-26T04:27:01Z",
+                "open_issues": 16,
                 "owner": "sisl",
                 "repo": "BayesNets.jl",
-                "stars": 228
+                "stars": 228,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -534,24 +770,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Graph data structures with multiple heterogeneous metadata for Graphs.jl.",
+                    "homepage": "https://juliagraphs.org/MetaGraphs.jl/",
                     "id": 417867885,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-26T07:53:08Z",
+                    "open_issues": 31,
                     "owner": "JuliaGraphs",
                     "repo": "MetaGraphs.jl",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "data-structures",
+                      "datastructures",
+                      "graph",
+                      "graphs",
+                      "hacktoberfest",
+                      "juliagraphs",
+                      "metadata"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "Working with graphs in Julia",
+                "homepage": null,
                 "id": 7300271,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-21T14:47:50Z",
+                "open_issues": 50,
                 "owner": "JuliaAttic",
                 "repo": "OldGraphs.jl",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -562,12 +816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PhyloNetworks: a julia package with utilities for phylogenetic networks",
+                "homepage": null,
                 "id": 23362179,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T21:35:07Z",
+                "open_issues": 5,
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -578,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph and Network algorithms in Julia",
+                "homepage": null,
                 "id": 37493786,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-28T13:31:44Z",
+                "open_issues": 17,
                 "owner": "JuliaGraphs",
                 "repo": "MatrixNetworks.jl",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -594,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This library generates graph layouts using the TikZ graph layout package.",
+                "homepage": null,
                 "id": 20903749,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-01T22:38:38Z",
+                "open_issues": 6,
                 "owner": "JuliaTeX",
                 "repo": "TikzGraphs.jl",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -610,12 +879,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Everything you've never dreamed about measuring on ecological networks.",
+                "homepage": null,
                 "id": 25148478,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-23T19:01:27Z",
+                "open_issues": 1,
                 "owner": "PoisotLab",
                 "repo": "EcologicalNetworks.jl",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "ecology",
+                  "julia",
+                  "networks"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -626,12 +904,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Working with time-dependent networks in Julia",
+                "homepage": "https://etymoio.github.io/EvolvingGraphs.jl/latest/",
                 "id": 30161981,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-15T22:13:01Z",
+                "open_issues": 10,
                 "owner": "EtymoIO",
                 "repo": "EvolvingGraphs.jl",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "evolving-graphs",
+                  "graph",
+                  "julia",
+                  "network"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -642,12 +930,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Julia Interface to visualize Graphs.",
+                "homepage": null,
                 "id": 53136410,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-23T03:25:59Z",
+                "open_issues": 9,
                 "owner": "abhijithanilkumar",
                 "repo": "NetworkViz.jl",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -658,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Network Flows structures and algortihms for Julia v0.4+",
+                "homepage": null,
                 "id": 42037351,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-18T02:31:52Z",
+                "open_issues": 0,
                 "owner": "Azzaare",
                 "repo": "NetworkFlows.jl",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -679,12 +977,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An optimized graphs package for the Julia programming language",
+                    "homepage": null,
                     "id": 29314835,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-08T14:57:24Z",
+                    "open_issues": 49,
                     "owner": "sbromberger",
                     "repo": "LightGraphs.jl",
-                    "stars": 665
+                    "stars": 665,
+                    "topics": [
+                      "graph",
+                      "graph-algorithms",
+                      "graph-analytics",
+                      "graph-generation",
+                      "graph-theory",
+                      "julia",
+                      "lightgraphs"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 },
@@ -695,12 +1006,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Layout algorithms for graphs and trees in pure Julia.",
+                    "homepage": null,
                     "id": 64144607,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-05T16:19:53Z",
+                    "open_issues": 8,
                     "owner": "JuliaGraphs",
                     "repo": "NetworkLayout.jl",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": [
+                      "graph-visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 },
@@ -711,12 +1029,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Additional functionality for LightGraphs.jl",
+                    "homepage": null,
                     "id": 64411809,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-28T13:12:05Z",
+                    "open_issues": 8,
                     "owner": "JuliaGraphs",
                     "repo": "LightGraphsExtras.jl",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 },
@@ -727,12 +1050,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 53420096,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-02-08T15:23:51Z",
+                    "open_issues": 9,
                     "owner": "CarloLucibello",
                     "repo": "GraphVisualize.jl",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 },
@@ -743,12 +1071,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "(DEPRECATED)  Centrality measures for Graphs.jl",
+                    "homepage": null,
                     "id": 28820725,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-08-30T19:57:54Z",
+                    "open_issues": 0,
                     "owner": "JuliaGraphs",
                     "repo": "GraphCentrality.jl",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "deprecated"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 },
@@ -759,12 +1094,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "(DEPRECATED) Additional graph flexibility for LightGraphs",
+                    "homepage": null,
                     "id": 45255119,
                     "language": "Julia",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-07-29T19:50:39Z",
+                    "open_issues": 5,
                     "owner": "JuliaGraphs",
                     "repo": "Networks.jl",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "deprecated"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 }
@@ -784,12 +1126,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer",
+                "homepage": null,
                 "id": 36759907,
                 "language": "Python",
-                "last_commit": "2026-08-28T10:11:59Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T16:01:02Z",
+                "open_issues": 351,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2551
+                "stars": 2551,
+                "topics": [
+                  "csv",
+                  "cudf",
+                  "cugraph",
+                  "gpu",
+                  "graph",
+                  "graph-visualization",
+                  "graphistry",
+                  "igraph",
+                  "jupyter",
+                  "neo4j",
+                  "network-analysis",
+                  "network-visualization",
+                  "networkx",
+                  "pandas",
+                  "python",
+                  "rapids",
+                  "splunk",
+                  "tigergraph",
+                  "visualization",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -800,12 +1168,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -816,12 +1210,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cuGraph - RAPIDS Graph Analytics Library",
+                "homepage": "https://docs.rapids.ai/api/cugraph/stable/",
                 "id": 157752451,
                 "language": "Cuda",
-                "last_commit": "2026-08-27T20:16:02Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:42:43Z",
+                "open_issues": 140,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2227
+                "stars": 2227,
+                "topics": [
+                  "complex-networks",
+                  "cuda",
+                  "gpu",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-analysis",
+                  "graph-framework",
+                  "graphml",
+                  "nvidia",
+                  "rapids"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -832,12 +1242,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high performance Python graph library implemented in Rust.",
+                "homepage": "https://www.rustworkx.org",
                 "id": 186025444,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T22:33:24Z",
+                "open_issues": 135,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1751
+                "stars": 1751,
+                "topics": [
+                  "dag",
+                  "graph",
+                  "graph-theory",
+                  "python",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -848,12 +1269,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for graph statistics",
+                "homepage": "https://graspologic-org.github.io/graspologic/",
                 "id": 147768493,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-18T23:46:40Z",
+                "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1009
+                "stars": 1009,
+                "topics": [
+                  "data-science",
+                  "graph",
+                  "graph-statistics",
+                  "machine-learning",
+                  "networks",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -864,12 +1297,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Little Ball of Fur - A graph sampling extension library for NetworKit and NetworkX (CIKM 2020)",
+                "homepage": "https://little-ball-of-fur.readthedocs.io",
                 "id": 260969405,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-20T17:20:57Z",
+                "open_issues": 7,
                 "owner": "benedekrozemberczki",
                 "repo": "littleballoffur",
-                "stars": 714
+                "stars": 715,
+                "topics": [
+                  "community-structure",
+                  "deep-learning",
+                  "forest-fire",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-embedding",
+                  "graph-sampling",
+                  "graph-sparsification",
+                  "machine-learning",
+                  "metropolis-hastings",
+                  "minimum-spanning-tree",
+                  "network-analytics",
+                  "network-embedding",
+                  "network-sampling",
+                  "network-science",
+                  "networkx",
+                  "node-embedding",
+                  "random-walk",
+                  "sampling"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -880,12 +1338,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive network visualization in Python and Dash, powered by Cytoscape.js",
+                "homepage": "https://dash.plot.ly/cytoscape",
                 "id": 143769302,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-09T18:56:08Z",
+                "open_issues": 69,
                 "owner": "plotly",
                 "repo": "dash-cytoscape",
-                "stars": 678
+                "stars": 678,
+                "topics": [
+                  "bioinformatics",
+                  "biopython",
+                  "computational-biology",
+                  "cytoscape",
+                  "cytoscapejs",
+                  "dash",
+                  "data-science",
+                  "graph-theory",
+                  "network-graph",
+                  "network-visualization",
+                  "plotly",
+                  "plotly-dash"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -896,12 +1372,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community Discovery Library ",
+                "homepage": "http://cdlib.readthedocs.io",
                 "id": 159944561,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-16T11:54:03Z",
+                "open_issues": 18,
                 "owner": "GiulioRossetti",
                 "repo": "cdlib",
-                "stars": 429
+                "stars": 429,
+                "topics": [
+                  "cdlib",
+                  "community-detection",
+                  "community-discovery",
+                  "community-evaluation",
+                  "complex-networks",
+                  "igraph",
+                  "network-analysis",
+                  "networkx"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -912,12 +1402,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy link prediction tool",
+                "homepage": null,
                 "id": 14785720,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-13T20:49:35Z",
+                "open_issues": 19,
                 "owner": "rafguns",
                 "repo": "linkpred",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "link-prediction",
+                  "maintenance-mode",
+                  "network-analysis",
+                  "python",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -928,12 +1429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 29364907,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-12T09:10:24Z",
+                "open_issues": 6,
                 "owner": "snap-stanford",
                 "repo": "snapvx",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -944,12 +1450,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Frontend to Algorithms of the Algorithm Engineering Group Heidelberg",
+                "homepage": null,
                 "id": 1155500972,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-24T07:42:35Z",
+                "open_issues": 0,
                 "owner": "CHSZLab",
                 "repo": "CHSZLabLib",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "combinatorial-optimization",
+                  "community-detection",
+                  "dynamic-graphs",
+                  "edge-orientation",
+                  "graph-algorithms",
+                  "graph-partitioning",
+                  "hpc",
+                  "hypergraph",
+                  "independent-set",
+                  "minimum-cut",
+                  "process-mapping",
+                  "pybind11",
+                  "python",
+                  "streaming-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -960,12 +1486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 171313025,
                 "language": "Jupyter Notebook",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-10-11T09:02:34Z",
+                "open_issues": 4,
                 "owner": "Yquetzal",
                 "repo": "tnetwork",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -976,12 +1507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "algorithms for community detection from n-partite networks",
+                "homepage": null,
                 "id": 17011750,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-05-20T11:59:35Z",
+                "open_issues": 0,
                 "owner": "ike002jp",
                 "repo": "npartite",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -992,12 +1528,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "parag🎆Interactive visualization of higher-order graphs in Python (demo: https://rraadd88.github.io/parag)",
+                "homepage": "https://deepwiki.com/rraadd88/parag",
                 "id": 763238068,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-09T19:24:44Z",
+                "open_issues": 1,
                 "owner": "rraadd88",
                 "repo": "parag",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "higher-order-networks",
+                  "hyperedge",
+                  "hypergraph",
+                  "network-visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1013,12 +1559,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualization Package for NetworkX",
+                    "homepage": "https://ericmjl.github.io/nxviz",
                     "id": 63429822,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-09T18:47:42Z",
+                    "open_issues": 11,
                     "owner": "ericmjl",
                     "repo": "nxviz",
-                    "stars": 485
+                    "stars": 485,
+                    "topics": [
+                      "network",
+                      "network-visualization",
+                      "networkx",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 },
@@ -1029,12 +1585,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An extension to networkX providing commonly used quality measures in graph drawing.",
+                    "homepage": "https://livus.github.io/gdMetriX/",
                     "id": 806275067,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T19:59:27Z",
+                    "open_issues": 2,
                     "owner": "livus",
                     "repo": "gdMetriX",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "graph-drawing",
+                      "network-visualization",
+                      "networkx"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 }
@@ -1054,12 +1619,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph and network visualization using tabular data in R",
+                "homepage": "https://rich-iannone.github.io/DiagrammeR/",
                 "id": 28556914,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-27T20:44:12Z",
+                "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1740
+                "stars": 1740,
+                "topics": [
+                  "graph",
+                  "graph-functions",
+                  "network-graph",
+                  "property-graph",
+                  "r",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1070,12 +1647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package, using vis.js library for network visualization",
+                "homepage": null,
                 "id": 34519310,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-15T13:52:15Z",
+                "open_issues": 156,
                 "owner": "datastorm-open",
                 "repo": "visNetwork",
-                "stars": 564
+                "stars": 564,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1086,12 +1668,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package containing several network datasets",
+                "homepage": "https://schochastics.github.io/networkdata/",
                 "id": 226346857,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-21T16:16:11Z",
+                "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "networkdata",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "dataset",
+                  "network-analysis",
+                  "rpackage"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1102,12 +1693,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package implementing edge bundling algorithms",
+                "homepage": "https://schochastics.github.io/edgebundle/",
                 "id": 321618760,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-24T14:39:13Z",
+                "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "edgebundle",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "graph-algorithms",
+                  "network-analysis",
+                  "rstats",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1118,12 +1719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Modern and Flexible Neo4J Driver",
+                "homepage": "https://neo4j-rstats.github.io/user-guide/",
                 "id": 126884054,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-15T20:17:16Z",
+                "open_issues": 70,
                 "owner": "neo4j-rstats",
                 "repo": "neo4r",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1134,12 +1740,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Actor-oriented and tie-based network event models in R",
+                "homepage": "https://stocnet.github.io/goldfish/",
                 "id": 207816908,
                 "language": "R",
-                "last_commit": "2026-08-26T08:25:31Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T19:25:07Z",
+                "open_issues": 28,
                 "owner": "stocnet",
                 "repo": "goldfish",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "dynam",
+                  "network-modelling",
+                  "rem",
+                  "statistical-network-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1150,12 +1766,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the \"Node Degree+Edge\" Betweenness Community Detection Algorithm for 'igraph' Objects with R ",
+                "homepage": "https://benyamindsmith.github.io/ig.degree.betweenness/",
                 "id": 731294608,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-17T23:07:17Z",
+                "open_issues": 0,
                 "owner": "benyamindsmith",
                 "repo": "ig.degree.betweenness",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "community-detection-algorithms",
+                  "igraph"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1166,12 +1790,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of network analytic (helper) functions that do not deserve a package on their own ",
+                "homepage": "https://schochastics.github.io/netUtils/",
                 "id": 200202064,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-12T19:26:08Z",
+                "open_issues": 1,
                 "owner": "schochastics",
                 "repo": "netUtils",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "network-analysis",
+                  "rstats",
+                  "rstats-package"
+                ]
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1182,12 +1815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package to analyze two-mode networks",
+                "homepage": null,
                 "id": 179497697,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-25T07:52:32Z",
+                "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "levelnet",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1198,12 +1836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CONCOR for R",
+                "homepage": null,
                 "id": 35925860,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-01T13:35:38Z",
+                "open_issues": 0,
                 "owner": "aslez",
                 "repo": "concoR",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1214,12 +1857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package: networkdiffusion",
+                "homepage": "https://github.com/chengjun/networkdiffusion",
                 "id": 34451643,
                 "language": "R",
+                "license": null,
                 "last_commit": "2021-04-15T08:36:41Z",
+                "open_issues": 1,
                 "owner": "chengjun",
                 "repo": "networkdiffusion",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1230,12 +1878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Statistical Model for Communication Networks",
+                "homepage": null,
                 "id": 49582818,
                 "language": "R",
+                "license": null,
                 "last_commit": "2017-06-11T05:12:24Z",
+                "open_issues": 0,
                 "owner": "matthewjdenny",
                 "repo": "CCAS",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1246,12 +1899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An R package which implements an extension to the TPME model of Krafft et al. (2012)",
+                "homepage": null,
                 "id": 36100765,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2015-10-02T15:34:35Z",
+                "open_issues": 0,
                 "owner": "matthewjdenny",
                 "repo": "ContentStructure",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -1269,12 +1927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph theory and social network analysis algorithms implemented on JGraphT graphs.",
+                "homepage": null,
                 "id": 7096175,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-01T06:28:24Z",
+                "open_issues": 1,
                 "owner": "agouge",
                 "repo": "Java-Network-Analyzer",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             },
@@ -1290,12 +1953,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Curated list of LaTeX awesomeness",
+                    "homepage": null,
                     "id": 49157768,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-08T07:42:44Z",
+                    "open_issues": 4,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1664
+                    "stars": 1664,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 }
@@ -1315,12 +1983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tutorial for network centrality in R",
+                "homepage": null,
                 "id": 633591932,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-08-24T18:17:40Z",
+                "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "centrality",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -1342,12 +2015,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+            "homepage": null,
             "id": 140943444,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-18T12:10:08Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4801
+            "stars": 4801,
+            "topics": [
+              "attention-mechanism",
+              "classification-algorithm",
+              "deep-graph-kernels",
+              "deepwalk",
+              "graph-attention-model",
+              "graph-attention-networks",
+              "graph-classification",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-kernel",
+              "graph-kernels",
+              "graph-representation-learning",
+              "graph2vec",
+              "kernel-methods",
+              "netlsd",
+              "network-embedding",
+              "node-embedding",
+              "node2vec",
+              "structural-attention",
+              "weisfeiler-lehman"
+            ]
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -1358,12 +2057,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of community detection research papers with implementations. ",
+            "homepage": null,
             "id": 152444880,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-20T17:06:00Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "bigclam",
+              "clustering",
+              "community-detection",
+              "data-science",
+              "deep-learning",
+              "deepwalk",
+              "dimensionality-reduction",
+              "embedding",
+              "factorization",
+              "graph-clustering",
+              "igraph",
+              "machine-learning",
+              "matrix-factorization",
+              "network-analysis",
+              "network-clustering",
+              "network-science",
+              "networkx",
+              "node2vec",
+              "social-network",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
         },
@@ -1376,12 +2101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 54420075,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-01-21T10:39:04Z",
+                "open_issues": 0,
                 "owner": "mboudour",
                 "repo": "WordNets",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -1399,12 +2129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R code to get co-citation networks on social networks in the social sciences vs physics and computer science using Web of Science data.",
+                "homepage": null,
                 "id": 19956260,
                 "language": "R",
+                "license": null,
                 "last_commit": "2015-01-28T17:31:16Z",
+                "open_issues": 0,
                 "owner": "raffaelevacca",
                 "repo": "EUSN-co-citation-networks",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
             }
@@ -1418,15 +2153,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:05:05.821Z",
+    "last_updated": "2026-08-29T04:17:07.190Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome network analysis resources.",
+      "homepage": "http://f.briatte.org/r/awesome-network-analysis-list",
       "id": 55921016,
       "language": "R",
+      "license": null,
       "last_commit": "2026-08-20T13:22:11Z",
+      "open_issues": 17,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4101
+      "stars": 4101,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "complex-networks",
+        "disease-networks",
+        "graph-theory",
+        "historical-networks",
+        "list",
+        "network-analysis",
+        "network-science",
+        "network-visualization",
+        "political-networks",
+        "semantic-networks",
+        "sna",
+        "social-network-analysis",
+        "social-networks"
+      ]
     },
     "original_repository_sha": "bb195fb2655e22fb85b2d48421a368aca2833452",
     "enhanced_repository": "enhansome/enhansome-network-analysis",
