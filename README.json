@@ -107,8 +107,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T07:55:59Z",
-            "open_issues": 442,
+            "last_commit": "2026-08-29T05:35:31Z",
+            "open_issues": 448,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6625,
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:17:07.190Z",
+    "last_updated": "2026-08-29T07:18:26.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
