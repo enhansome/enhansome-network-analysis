@@ -111,7 +111,7 @@
             "open_issues": 448,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6625,
+            "stars": 6627,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T16:01:02Z",
-                "open_issues": 351,
+                "last_commit": "2026-08-30T01:59:09Z",
+                "open_issues": 346,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2551,
+                "stars": 2552,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1251,7 +1251,7 @@
                 "open_issues": 135,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1751,
+                "stars": 1752,
                 "topics": [
                   "dag",
                   "graph",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:18:26.170Z",
+    "last_updated": "2026-08-30T05:42:59.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 17,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4101,
+      "stars": 4102,
       "topics": [
         "awesome",
         "awesome-list",
