@@ -107,8 +107,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T05:35:31Z",
-            "open_issues": 448,
+            "last_commit": "2026-08-30T19:36:39Z",
+            "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6627,
@@ -517,7 +517,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3860,
+                "stars": 3859,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -680,7 +680,7 @@
                     "open_issues": 27,
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 1999,
+                    "stars": 2000,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-30T01:59:09Z",
-                "open_issues": 346,
+                "last_commit": "2026-08-30T18:25:16Z",
+                "open_issues": 347,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2552,
+                "stars": 2551,
                 "topics": [
                   "csv",
                   "cudf",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:42:59.519Z",
+    "last_updated": "2026-08-31T05:59:53.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2162,10 +2162,10 @@
       "language": "R",
       "license": null,
       "last_commit": "2026-08-20T13:22:11Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4102,
+      "stars": 4103,
       "topics": [
         "awesome",
         "awesome-list",
