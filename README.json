@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
-                "stars": 439,
+                "stars": 438,
                 "topics": [
                   "datasets",
                   "indiana-university",
@@ -107,7 +107,7 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T20:22:05Z",
+            "last_commit": "2026-09-03T19:54:22Z",
             "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
@@ -139,7 +139,7 @@
             "open_issues": 14,
             "owner": "hetio",
             "repo": "hetionet",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "data-integration",
               "drug-repurposing",
@@ -412,11 +412,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T23:43:43Z",
-                "open_issues": 138,
+                "last_commit": "2026-09-03T21:09:58Z",
+                "open_issues": 141,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2228,
+                "stars": 2229,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -517,7 +517,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3859,
+                "stars": 3860,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -547,7 +547,7 @@
                 "open_issues": 20,
                 "owner": "Nhogs",
                 "repo": "popoto",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "cypher",
                   "cypher-query",
@@ -825,7 +825,7 @@
                 "open_issues": 5,
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
-                "stars": 176,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1131,8 +1131,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-02T09:06:43Z",
-                "open_issues": 347,
+                "last_commit": "2026-09-04T00:07:18Z",
+                "open_issues": 349,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2551,
@@ -1215,11 +1215,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T23:43:43Z",
-                "open_issues": 138,
+                "last_commit": "2026-09-03T21:09:58Z",
+                "open_issues": 141,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2228,
+                "stars": 2229,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1745,7 +1745,7 @@
                 "id": 207816908,
                 "language": "R",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T17:24:16Z",
+                "last_commit": "2026-09-03T09:12:13Z",
                 "open_issues": 28,
                 "owner": "stocnet",
                 "repo": "goldfish",
@@ -1962,7 +1962,7 @@
                     "open_issues": 4,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1665,
+                    "stars": 1664,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:55:04.304Z",
+    "last_updated": "2026-09-04T04:59:51.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 18,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4105,
+      "stars": 4107,
       "topics": [
         "awesome",
         "awesome-list",
