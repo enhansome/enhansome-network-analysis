@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
-                "stars": 438,
+                "stars": 437,
                 "topics": [
                   "datasets",
                   "indiana-university",
@@ -107,11 +107,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T21:45:36Z",
+            "last_commit": "2026-09-05T15:05:50Z",
             "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6629,
+            "stars": 6631,
             "topics": [
               "graph",
               "graph-analytics",
@@ -412,7 +412,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:10:17Z",
+                "last_commit": "2026-09-06T02:11:23Z",
                 "open_issues": 145,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T03:16:07Z",
-                "open_issues": 370,
+                "last_commit": "2026-09-06T02:55:28Z",
+                "open_issues": 376,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2552,
+                "stars": 2553,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1177,7 +1177,7 @@
                 "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286,
+                "stars": 2285,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1215,7 +1215,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:10:17Z",
+                "last_commit": "2026-09-06T02:11:23Z",
                 "open_issues": 145,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -1628,7 +1628,7 @@
                 "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1741,
+                "stars": 1740,
                 "topics": [
                   "graph",
                   "graph-functions",
@@ -1745,7 +1745,7 @@
                 "id": 207816908,
                 "language": "R",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T08:53:37Z",
+                "last_commit": "2026-09-05T07:39:32Z",
                 "open_issues": 28,
                 "owner": "stocnet",
                 "repo": "goldfish",
@@ -1962,7 +1962,7 @@
                     "open_issues": 5,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1666,
+                    "stars": 1667,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:52:45.839Z",
+    "last_updated": "2026-09-06T05:00:20.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
