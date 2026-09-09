@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
-                "stars": 437,
+                "stars": 436,
                 "topics": [
                   "datasets",
                   "indiana-university",
@@ -58,7 +58,7 @@
                 "open_issues": 10,
                 "owner": "kolaczyk",
                 "repo": "sand",
-                "stars": 301,
+                "stars": 302,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -111,7 +111,7 @@
             "open_issues": 439,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6638,
+            "stars": 6640,
             "topics": [
               "graph",
               "graph-analytics",
@@ -412,11 +412,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T01:07:08Z",
-                "open_issues": 148,
+                "last_commit": "2026-09-09T00:47:22Z",
+                "open_issues": 150,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2230,
+                "stars": 2231,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -617,7 +617,7 @@
                 "id": 121553660,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-10T15:55:47Z",
+                "last_commit": "2026-09-08T17:39:45Z",
                 "open_issues": 7,
                 "owner": "public-accountability",
                 "repo": "oligrapher",
@@ -753,7 +753,7 @@
                 "open_issues": 16,
                 "owner": "sisl",
                 "repo": "BayesNets.jl",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1215,11 +1215,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T01:07:08Z",
-                "open_issues": 148,
+                "last_commit": "2026-09-09T00:47:22Z",
+                "open_issues": 150,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2230,
+                "stars": 2231,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1247,11 +1247,11 @@
                 "id": 186025444,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T14:22:34Z",
-                "open_issues": 142,
+                "last_commit": "2026-09-09T04:03:48Z",
+                "open_issues": 139,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1752,
+                "stars": 1753,
                 "topics": [
                   "dag",
                   "graph",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T05:05:53.137Z",
+    "last_updated": "2026-09-09T05:04:26.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
