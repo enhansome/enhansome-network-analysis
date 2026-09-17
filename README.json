@@ -111,7 +111,7 @@
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6650,
+            "stars": 6651,
             "topics": [
               "graph",
               "graph-analytics",
@@ -222,7 +222,7 @@
             "open_issues": 2,
             "owner": "sknetwork-team",
             "repo": "scikit-network",
-            "stars": 632,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
@@ -412,8 +412,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T01:40:32Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-17T01:43:20Z",
+                "open_issues": 137,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2233,
@@ -572,11 +572,11 @@
                 "id": 530290705,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T22:01:35Z",
+                "last_commit": "2026-09-16T08:57:39Z",
                 "open_issues": 84,
                 "owner": "gephi",
                 "repo": "gephi-lite",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "dataviz",
                   "network-analysis"
@@ -1131,8 +1131,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-16T05:01:27Z",
-                "open_issues": 375,
+                "last_commit": "2026-09-17T05:12:38Z",
+                "open_issues": 374,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2555,
@@ -1215,8 +1215,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T01:40:32Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-17T01:43:20Z",
+                "open_issues": 137,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2233,
@@ -1251,7 +1251,7 @@
                 "open_issues": 136,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": [
                   "dag",
                   "graph",
@@ -1278,7 +1278,7 @@
                 "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1010,
+                "stars": 1011,
                 "topics": [
                   "data-science",
                   "graph",
@@ -1347,7 +1347,7 @@
                 "open_issues": 69,
                 "owner": "plotly",
                 "repo": "dash-cytoscape",
-                "stars": 679,
+                "stars": 680,
                 "topics": [
                   "bioinformatics",
                   "biopython",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:07:26.244Z",
+    "last_updated": "2026-09-17T05:12:55.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 19,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4113,
+      "stars": 4115,
       "topics": [
         "awesome",
         "awesome-list",
