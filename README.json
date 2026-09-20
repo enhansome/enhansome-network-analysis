@@ -111,7 +111,7 @@
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6651,
+            "stars": 6652,
             "topics": [
               "graph",
               "graph-analytics",
@@ -416,7 +416,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1015,7 +1015,7 @@
                     "open_issues": 10,
                     "owner": "JuliaGraphs",
                     "repo": "NetworkLayout.jl",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": [
                       "graph-visualization"
                     ]
@@ -1219,7 +1219,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1962,7 +1962,7 @@
                     "open_issues": 6,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1668,
+                    "stars": 1669,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:56:06.803Z",
+    "last_updated": "2026-09-20T05:18:34.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
