@@ -107,7 +107,7 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T16:11:27Z",
+            "last_commit": "2026-09-20T13:27:55Z",
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
@@ -416,7 +416,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2236,
+                "stars": 2235,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -451,7 +451,7 @@
                 "id": 10005385,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T16:06:14Z",
+                "last_commit": "2026-09-20T13:27:56Z",
                 "open_issues": 11,
                 "owner": "gephi",
                 "repo": "graphstore",
@@ -517,7 +517,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3861,
+                "stars": 3860,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -572,11 +572,11 @@
                 "id": 530290705,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T14:44:56Z",
+                "last_commit": "2026-09-20T13:27:21Z",
                 "open_issues": 84,
                 "owner": "gephi",
                 "repo": "gephi-lite",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "dataviz",
                   "network-analysis"
@@ -600,7 +600,7 @@
                 "open_issues": 10,
                 "owner": "upphiminn",
                 "repo": "jLouvain",
-                "stars": 157,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -617,7 +617,7 @@
                 "id": 121553660,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T17:39:45Z",
+                "last_commit": "2026-09-20T18:23:01Z",
                 "open_issues": 7,
                 "owner": "public-accountability",
                 "repo": "oligrapher",
@@ -1131,8 +1131,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T09:43:34Z",
-                "open_issues": 371,
+                "last_commit": "2026-09-21T01:22:26Z",
+                "open_issues": 370,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2555,
@@ -1219,7 +1219,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2236,
+                "stars": 2235,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1247,11 +1247,11 @@
                 "id": 186025444,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T17:11:04Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-20T19:24:13Z",
+                "open_issues": 135,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1758,
+                "stars": 1759,
                 "topics": [
                   "dag",
                   "graph",
@@ -1278,7 +1278,7 @@
                 "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1011,
+                "stars": 1012,
                 "topics": [
                   "data-science",
                   "graph",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:18:34.750Z",
+    "last_updated": "2026-09-21T05:20:25.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 19,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4115,
+      "stars": 4114,
       "topics": [
         "awesome",
         "awesome-list",
