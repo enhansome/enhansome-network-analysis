@@ -412,7 +412,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:22:46Z",
+                "last_commit": "2026-09-21T22:45:02Z",
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -451,8 +451,8 @@
                 "id": 10005385,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T13:27:56Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-21T16:52:43Z",
+                "open_issues": 12,
                 "owner": "gephi",
                 "repo": "graphstore",
                 "stars": 93,
@@ -1012,7 +1012,7 @@
                     "language": "Julia",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-17T20:13:31Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "JuliaGraphs",
                     "repo": "NetworkLayout.jl",
                     "stars": 109,
@@ -1131,7 +1131,7 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T01:22:26Z",
+                "last_commit": "2026-09-22T05:02:03Z",
                 "open_issues": 370,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
@@ -1215,7 +1215,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:22:46Z",
+                "last_commit": "2026-09-21T22:45:02Z",
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -1278,7 +1278,7 @@
                 "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": [
                   "data-science",
                   "graph",
@@ -1775,7 +1775,7 @@
                 "open_issues": 0,
                 "owner": "benyamindsmith",
                 "repo": "ig.degree.betweenness",
-                "stars": 40,
+                "stars": 39,
                 "topics": [
                   "community-detection-algorithms",
                   "igraph"
@@ -1962,7 +1962,7 @@
                     "open_issues": 6,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1669,
+                    "stars": 1671,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:20:25.329Z",
+    "last_updated": "2026-09-22T05:18:11.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 19,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4114,
+      "stars": 4115,
       "topics": [
         "awesome",
         "awesome-list",
