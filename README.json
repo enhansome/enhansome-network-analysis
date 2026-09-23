@@ -76,7 +76,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2012-11-02T16:57:33Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "maksim2042",
                 "repo": "SNABook",
                 "stars": 245,
@@ -111,7 +111,7 @@
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6652,
+            "stars": 6655,
             "topics": [
               "graph",
               "graph-analytics",
@@ -416,7 +416,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -517,7 +517,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3860,
+                "stars": 3861,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -543,7 +543,7 @@
                 "id": 30092104,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-01-28T07:23:02Z",
+                "last_commit": "2026-09-22T23:03:34Z",
                 "open_issues": 20,
                 "owner": "Nhogs",
                 "repo": "popoto",
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-22T05:02:03Z",
+                "last_commit": "2026-09-23T01:35:19Z",
                 "open_issues": 370,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2555,
+                "stars": 2556,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1219,7 +1219,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1278,7 +1278,7 @@
                 "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "data-science",
                   "graph",
@@ -1962,7 +1962,7 @@
                     "open_issues": 6,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1671,
+                    "stars": 1672,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2066,7 +2066,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2451,
+            "stars": 2452,
             "topics": [
               "bigclam",
               "clustering",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T05:18:11.184Z",
+    "last_updated": "2026-09-23T05:04:07.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
