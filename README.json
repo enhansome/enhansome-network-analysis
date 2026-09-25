@@ -111,7 +111,7 @@
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6655,
+            "stars": 6656,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1132,7 +1132,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-23T12:51:01Z",
-                "open_issues": 373,
+                "open_issues": 375,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2557,
@@ -1247,11 +1247,11 @@
                 "id": 186025444,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T14:22:42Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-24T14:22:40Z",
+                "open_issues": 138,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": [
                   "dag",
                   "graph",
@@ -1628,7 +1628,7 @@
                 "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1744,
+                "stars": 1745,
                 "topics": [
                   "graph",
                   "graph-functions",
@@ -2024,7 +2024,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4801,
+            "stars": 4802,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:15:01.097Z",
+    "last_updated": "2026-09-25T05:16:43.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
