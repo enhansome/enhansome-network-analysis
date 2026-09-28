@@ -107,11 +107,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T08:30:44Z",
-            "open_issues": 446,
+            "last_commit": "2026-09-27T15:30:17Z",
+            "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6657,
+            "stars": 6659,
             "topics": [
               "graph",
               "graph-analytics",
@@ -416,7 +416,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2238,
+                "stars": 2239,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -451,8 +451,8 @@
                 "id": 10005385,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T16:52:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-27T15:12:01Z",
+                "open_issues": 11,
                 "owner": "gephi",
                 "repo": "graphstore",
                 "stars": 93,
@@ -1219,7 +1219,7 @@
                 "open_issues": 130,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2238,
+                "stars": 2239,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:37:36.784Z",
+    "last_updated": "2026-09-28T05:45:37.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 19,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4115,
+      "stars": 4117,
       "topics": [
         "awesome",
         "awesome-list",
