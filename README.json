@@ -111,7 +111,7 @@
             "open_issues": 444,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6658,
+            "stars": 6657,
             "topics": [
               "graph",
               "graph-analytics",
@@ -412,11 +412,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T22:45:02Z",
-                "open_issues": 131,
+                "last_commit": "2026-09-29T19:32:00Z",
+                "open_issues": 132,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -517,7 +517,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3861,
+                "stars": 3862,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -1011,7 +1011,7 @@
                     "id": 64144607,
                     "language": "Julia",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-28T18:52:01Z",
+                    "last_commit": "2026-09-29T07:58:04Z",
                     "open_issues": 7,
                     "owner": "JuliaGraphs",
                     "repo": "NetworkLayout.jl",
@@ -1215,11 +1215,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T22:45:02Z",
-                "open_issues": 131,
+                "last_commit": "2026-09-29T19:32:00Z",
+                "open_issues": 132,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1656,7 +1656,7 @@
                 "open_issues": 156,
                 "owner": "datastorm-open",
                 "repo": "visNetwork",
-                "stars": 564,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:04:13.756Z",
+    "last_updated": "2026-09-30T05:52:39.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
