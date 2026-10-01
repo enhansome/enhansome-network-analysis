@@ -412,8 +412,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T19:32:00Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-30T18:10:54Z",
+                "open_issues": 131,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2240,
@@ -680,7 +680,7 @@
                     "open_issues": 27,
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 2003,
+                    "stars": 2002,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1135,7 +1135,7 @@
                 "open_issues": 377,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2560,
+                "stars": 2565,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1177,7 +1177,7 @@
                 "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2287,
+                "stars": 2288,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1215,8 +1215,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T19:32:00Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-30T18:10:54Z",
+                "open_issues": 131,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2240,
@@ -1251,7 +1251,7 @@
                 "open_issues": 138,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1761,
+                "stars": 1764,
                 "topics": [
                   "dag",
                   "graph",
@@ -1628,7 +1628,7 @@
                 "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1744,
+                "stars": 1745,
                 "topics": [
                   "graph",
                   "graph-functions",
@@ -1793,9 +1793,9 @@
                 "description": "A collection of network analytic (helper) functions that do not deserve a package on their own ",
                 "homepage": "https://schochastics.github.io/netUtils/",
                 "id": 200202064,
-                "language": "C++",
+                "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-12T19:26:08Z",
+                "last_commit": "2026-09-30T12:23:38Z",
                 "open_issues": 1,
                 "owner": "schochastics",
                 "repo": "netUtils",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:52:39.649Z",
+    "last_updated": "2026-10-01T06:26:27.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 19,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4118,
+      "stars": 4119,
       "topics": [
         "awesome",
         "awesome-list",
