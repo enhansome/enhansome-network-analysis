@@ -1,8 +1,8 @@
 # Awesome Network Analysis with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 513,799 | 🐛 106 | 📅 2026-09-02 of resources to construct, analyze and visualize network data.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 513,808 | 🐛 106 | 📅 2026-09-02 of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,519 | 🐛 1 | 🌐 Python | 📅 2026-08-14 and others. Started in 2016, and irregularly updated since then.
+Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26, [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,521 | 🐛 1 | 🌐 Python | 📅 2026-08-14 and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -589,7 +589,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### JavaScript
 
-> For more awesome JavaScript libraries, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,032 | 🐛 26 | 📅 2026-09-08 list.
+> For more awesome JavaScript libraries, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,033 | 🐛 26 | 📅 2026-09-08 list.
 
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) ⭐ 3,861 | 🐛 114 | 🌐 JavaScript | 📅 2026-03-06 - Graph drawing library ([ForceAtlas2 plugin](https://github.com/graphcommons/viva.forceatlas2) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2015-07-24).
 * [Popoto.js](https://github.com/Nhogs/popoto) ⭐ 535 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-22 - Library based on d3.js that provides a graph based search interface.
@@ -648,7 +648,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.\
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2012-03-08).\
-> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,306 | 🐛 8 | 📅 2025-07-17 lists.
+> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 324,784 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) ⭐ 4,306 | 🐛 8 | 📅 2025-07-17 lists.
 
 * [PyGraphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,565 | 🐛 378 | 🌐 Python | 📅 2026-10-03 - Python library to extract, transform, and visually explore big graphs.
 * [karateclub](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,289 | 🐛 12 | 🌐 Python | 📅 2024-07-17 - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
