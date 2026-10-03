@@ -58,7 +58,7 @@
                 "open_issues": 10,
                 "owner": "kolaczyk",
                 "repo": "sand",
-                "stars": 302,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -98,7 +98,7 @@
         {
           "node_type": "item",
           "title": "Gephi Datasets",
-          "description": ".",
+          "description": "gephi/gephi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -107,8 +107,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T15:30:17Z",
-            "open_issues": 444,
+            "last_commit": "2026-10-02T19:53:53Z",
+            "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6657,
@@ -413,10 +413,10 @@
                 "language": "Cuda",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T21:06:51Z",
-                "open_issues": 133,
+                "open_issues": 135,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2240,
+                "stars": 2241,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -517,7 +517,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3862,
+                "stars": 3861,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -572,7 +572,7 @@
                 "id": 530290705,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T13:27:21Z",
+                "last_commit": "2026-10-02T15:48:37Z",
                 "open_issues": 84,
                 "owner": "gephi",
                 "repo": "gephi-lite",
@@ -1131,8 +1131,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-25T08:25:26Z",
-                "open_issues": 377,
+                "last_commit": "2026-10-03T04:29:37Z",
+                "open_issues": 378,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2565,
@@ -1177,7 +1177,7 @@
                 "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2288,
+                "stars": 2289,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1216,10 +1216,10 @@
                 "language": "Cuda",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T21:06:51Z",
-                "open_issues": 133,
+                "open_issues": 135,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2240,
+                "stars": 2241,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1251,7 +1251,7 @@
                 "open_issues": 138,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1765,
+                "stars": 1767,
                 "topics": [
                   "dag",
                   "graph",
@@ -1949,7 +1949,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome LaTeX: TiKZ",
-                  "description": ".",
+                  "description": "egeerardyn/awesome-LaTeX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1959,10 +1959,10 @@
                     "language": null,
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-08T07:42:44Z",
-                    "open_issues": 8,
+                    "open_issues": 7,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1673,
+                    "stars": 1672,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1979,7 +1979,7 @@
             {
               "node_type": "item",
               "title": "A tutorial for network centrality in R",
-              "description": "(2023).",
+              "description": "schochastics/centrality",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2125,7 +2125,7 @@
             {
               "node_type": "item",
               "title": "Social Network and Network Science Co-Citations Across Disciplines in 1996-2013",
-              "description": ".",
+              "description": "raffaelevacca/EUSN-co-citation-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:04:37.802Z",
+    "last_updated": "2026-10-03T05:01:39.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 19,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4119,
+      "stars": 4120,
       "topics": [
         "awesome",
         "awesome-list",
