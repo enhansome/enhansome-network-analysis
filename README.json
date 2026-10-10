@@ -111,7 +111,7 @@
             "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6660,
+            "stars": 6662,
             "topics": [
               "graph",
               "graph-analytics",
@@ -412,7 +412,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:08:10Z",
+                "last_commit": "2026-10-09T23:49:21Z",
                 "open_issues": 135,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -451,7 +451,7 @@
                 "id": 10005385,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T19:09:27Z",
+                "last_commit": "2026-10-09T19:01:20Z",
                 "open_issues": 11,
                 "owner": "gephi",
                 "repo": "graphstore",
@@ -573,7 +573,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-07T09:15:36Z",
-                "open_issues": 85,
+                "open_issues": 84,
                 "owner": "gephi",
                 "repo": "gephi-lite",
                 "stars": 354,
@@ -680,7 +680,7 @@
                     "open_issues": 27,
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 2005,
+                    "stars": 2006,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-09T06:31:12Z",
+                "last_commit": "2026-10-10T06:13:54Z",
                 "open_issues": 367,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2565,
+                "stars": 2566,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1215,7 +1215,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:08:10Z",
+                "last_commit": "2026-10-09T23:49:21Z",
                 "open_issues": 135,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -1247,8 +1247,8 @@
                 "id": 186025444,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T21:36:49Z",
-                "open_issues": 143,
+                "last_commit": "2026-10-09T18:53:52Z",
+                "open_issues": 144,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
                 "stars": 1767,
@@ -1628,7 +1628,7 @@
                 "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1748,
+                "stars": 1749,
                 "topics": [
                   "graph",
                   "graph-functions",
@@ -1702,7 +1702,7 @@
                 "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "edgebundle",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "graph-algorithms",
                   "network-analysis",
@@ -1962,7 +1962,7 @@
                     "open_issues": 10,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1672,
+                    "stars": 1673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4802,
+            "stars": 4804,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -2066,7 +2066,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "bigclam",
               "clustering",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:34:31.404Z",
+    "last_updated": "2026-10-10T06:18:12.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
