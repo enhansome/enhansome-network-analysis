@@ -107,11 +107,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T19:53:53Z",
-            "open_issues": 445,
+            "last_commit": "2026-10-10T18:25:06Z",
+            "open_issues": 443,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6662,
+            "stars": 6663,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-10T06:13:54Z",
-                "open_issues": 367,
+                "last_commit": "2026-10-11T05:45:31Z",
+                "open_issues": 374,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2566,
+                "stars": 2567,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1251,7 +1251,7 @@
                 "open_issues": 144,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "dag",
                   "graph",
@@ -1959,10 +1959,10 @@
                     "language": null,
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-08T07:42:44Z",
-                    "open_issues": 10,
+                    "open_issues": 12,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1673,
+                    "stars": 1674,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:18:12.531Z",
+    "last_updated": "2026-10-11T06:18:26.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
