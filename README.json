@@ -111,7 +111,7 @@
             "open_issues": 443,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6663,
+            "stars": 6664,
             "topics": [
               "graph",
               "graph-analytics",
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-11T05:45:31Z",
-                "open_issues": 374,
+                "last_commit": "2026-10-12T06:10:02Z",
+                "open_issues": 369,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2567,
+                "stars": 2568,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1251,7 +1251,7 @@
                 "open_issues": 144,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1768,
+                "stars": 1769,
                 "topics": [
                   "dag",
                   "graph",
@@ -1278,7 +1278,7 @@
                 "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "data-science",
                   "graph",
@@ -1959,7 +1959,7 @@
                     "language": null,
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-08T07:42:44Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
                     "stars": 1674,
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:18:26.461Z",
+    "last_updated": "2026-10-12T06:24:47.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 20,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4122,
+      "stars": 4124,
       "topics": [
         "awesome",
         "awesome-list",
