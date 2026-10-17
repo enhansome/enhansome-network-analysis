@@ -111,7 +111,7 @@
             "open_issues": 442,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6672,
+            "stars": 6674,
             "topics": [
               "graph",
               "graph-analytics",
@@ -218,8 +218,8 @@
             "id": 135287970,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T15:17:22Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-16T15:25:14Z",
+            "open_issues": 6,
             "owner": "sknetwork-team",
             "repo": "scikit-network",
             "stars": 633,
@@ -412,11 +412,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T19:31:45Z",
+                "last_commit": "2026-10-16T20:30:36Z",
                 "open_issues": 139,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -680,7 +680,7 @@
                     "open_issues": 27,
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 2006,
+                    "stars": 2007,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -821,7 +821,7 @@
                 "id": 23362179,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T13:00:48Z",
+                "last_commit": "2026-10-16T17:41:15Z",
                 "open_issues": 5,
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T22:22:09Z",
-                "open_issues": 373,
+                "last_commit": "2026-10-17T04:40:32Z",
+                "open_issues": 374,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2569,
+                "stars": 2572,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1215,11 +1215,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T19:31:45Z",
+                "last_commit": "2026-10-16T20:30:36Z",
                 "open_issues": 139,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1251,7 +1251,7 @@
                 "open_issues": 146,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1771,
+                "stars": 1772,
                 "topics": [
                   "dag",
                   "graph",
@@ -1278,7 +1278,7 @@
                 "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": [
                   "data-science",
                   "graph",
@@ -1306,7 +1306,7 @@
                 "open_issues": 7,
                 "owner": "benedekrozemberczki",
                 "repo": "littleballoffur",
-                "stars": 714,
+                "stars": 713,
                 "topics": [
                   "community-structure",
                   "deep-learning",
@@ -1381,7 +1381,7 @@
                 "open_issues": 18,
                 "owner": "GiulioRossetti",
                 "repo": "cdlib",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "cdlib",
                   "community-detection",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:52:47.086Z",
+    "last_updated": "2026-10-17T04:54:07.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 22,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4128,
+      "stars": 4129,
       "topics": [
         "awesome",
         "awesome-list",
