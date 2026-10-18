@@ -107,11 +107,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T08:36:43Z",
-            "open_issues": 442,
+            "last_commit": "2026-10-17T08:35:57Z",
+            "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6674,
+            "stars": 6678,
             "topics": [
               "graph",
               "graph-analytics",
@@ -219,7 +219,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T15:25:14Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "sknetwork-team",
             "repo": "scikit-network",
             "stars": 633,
@@ -517,7 +517,7 @@
                 "open_issues": 114,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3863,
+                "stars": 3864,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -1131,8 +1131,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-17T04:40:32Z",
-                "open_issues": 374,
+                "last_commit": "2026-10-17T21:50:28Z",
+                "open_issues": 342,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2572,
@@ -1381,7 +1381,7 @@
                 "open_issues": 18,
                 "owner": "GiulioRossetti",
                 "repo": "cdlib",
-                "stars": 430,
+                "stars": 429,
                 "topics": [
                   "cdlib",
                   "community-detection",
@@ -1962,7 +1962,7 @@
                     "open_issues": 14,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1674,
+                    "stars": 1673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2066,7 +2066,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2454,
+            "stars": 2453,
             "topics": [
               "bigclam",
               "clustering",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:54:07.156Z",
+    "last_updated": "2026-10-18T05:01:20.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
