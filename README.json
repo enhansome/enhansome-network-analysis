@@ -79,7 +79,7 @@
                 "open_issues": 4,
                 "owner": "maksim2042",
                 "repo": "SNABook",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -111,7 +111,7 @@
             "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6683,
+            "stars": 6685,
             "topics": [
               "graph",
               "graph-analytics",
@@ -412,7 +412,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T15:05:13Z",
+                "last_commit": "2026-10-22T19:56:04Z",
                 "open_issues": 150,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -451,8 +451,8 @@
                 "id": 10005385,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T18:07:13Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-22T20:59:56Z",
+                "open_issues": 13,
                 "owner": "gephi",
                 "repo": "graphstore",
                 "stars": 93,
@@ -1131,8 +1131,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T05:09:04Z",
-                "open_issues": 349,
+                "last_commit": "2026-10-23T05:02:26Z",
+                "open_issues": 341,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2574,
@@ -1215,7 +1215,7 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T15:05:13Z",
+                "last_commit": "2026-10-22T19:56:04Z",
                 "open_issues": 150,
                 "owner": "rapidsai",
                 "repo": "cugraph",
@@ -1251,7 +1251,7 @@
                 "open_issues": 148,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1773,
+                "stars": 1774,
                 "topics": [
                   "dag",
                   "graph",
@@ -1278,7 +1278,7 @@
                 "open_issues": 71,
                 "owner": "graspologic-org",
                 "repo": "graspologic",
-                "stars": 1017,
+                "stars": 1018,
                 "topics": [
                   "data-science",
                   "graph",
@@ -1962,7 +1962,7 @@
                     "open_issues": 20,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1674,
+                    "stars": 1675,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:15:30.238Z",
+    "last_updated": "2026-10-23T05:14:57.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
