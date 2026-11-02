@@ -107,8 +107,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T08:01:34Z",
-            "open_issues": 442,
+            "last_commit": "2026-11-01T20:12:44Z",
+            "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6693,
@@ -416,7 +416,7 @@
                 "open_issues": 153,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2251,
+                "stars": 2252,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -680,7 +680,7 @@
                     "open_issues": 27,
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 2011,
+                    "stars": 2012,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1131,7 +1131,7 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-01T06:12:57Z",
+                "last_commit": "2026-11-02T04:07:09Z",
                 "open_issues": 337,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
@@ -1174,7 +1174,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2291,
@@ -1219,7 +1219,7 @@
                 "open_issues": 153,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2251,
+                "stars": 2252,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:43:24.936Z",
+    "last_updated": "2026-11-02T06:41:12.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 23,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4140,
+      "stars": 4142,
       "topics": [
         "awesome",
         "awesome-list",
