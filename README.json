@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "datasets",
                   "indiana-university",
@@ -111,7 +111,7 @@
             "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6693,
+            "stars": 6694,
             "topics": [
               "graph",
               "graph-analytics",
@@ -139,7 +139,7 @@
             "open_issues": 14,
             "owner": "hetio",
             "repo": "hetionet",
-            "stars": 363,
+            "stars": 365,
             "topics": [
               "data-integration",
               "drug-repurposing",
@@ -218,8 +218,8 @@
             "id": 135287970,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T17:25:26Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-03T07:58:21Z",
+            "open_issues": 5,
             "owner": "sknetwork-team",
             "repo": "scikit-network",
             "stars": 633,
@@ -412,11 +412,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T02:28:44Z",
-                "open_issues": 153,
+                "last_commit": "2026-11-03T19:39:16Z",
+                "open_issues": 155,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2254,
+                "stars": 2256,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -517,7 +517,7 @@
                 "open_issues": 115,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3865,
+                "stars": 3866,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -680,7 +680,7 @@
                     "open_issues": 24,
                     "owner": "d3",
                     "repo": "d3-force",
-                    "stars": 2012,
+                    "stars": 2013,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1215,11 +1215,11 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T02:28:44Z",
-                "open_issues": 153,
+                "last_commit": "2026-11-03T19:39:16Z",
+                "open_issues": 155,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2254,
+                "stars": 2256,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1628,7 +1628,7 @@
                 "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1751,
+                "stars": 1752,
                 "topics": [
                   "graph",
                   "graph-functions",
@@ -1656,7 +1656,7 @@
                 "open_issues": 156,
                 "owner": "datastorm-open",
                 "repo": "visNetwork",
-                "stars": 563,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1702,7 +1702,7 @@
                 "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "edgebundle",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "graph-algorithms",
                   "network-analysis",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:09:55.436Z",
+    "last_updated": "2026-11-04T06:55:01.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 23,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4143,
+      "stars": 4144,
       "topics": [
         "awesome",
         "awesome-list",
