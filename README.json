@@ -346,7 +346,7 @@
                 "open_issues": 11,
                 "owner": "bagrow",
                 "repo": "linkcomm",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:05:05.821Z"
@@ -412,8 +412,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T19:39:16Z",
-                "open_issues": 155,
+                "last_commit": "2026-11-05T06:45:11Z",
+                "open_issues": 156,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2256,
@@ -517,7 +517,7 @@
                 "open_issues": 115,
                 "owner": "anvaka",
                 "repo": "VivaGraphJS",
-                "stars": 3866,
+                "stars": 3867,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -573,7 +573,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-07T09:15:36Z",
-                "open_issues": 84,
+                "open_issues": 74,
                 "owner": "gephi",
                 "repo": "gephi-lite",
                 "stars": 355,
@@ -821,7 +821,7 @@
                 "id": 23362179,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T11:51:34Z",
+                "last_commit": "2026-11-04T09:23:27Z",
                 "open_issues": 5,
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
@@ -1215,8 +1215,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T19:39:16Z",
-                "open_issues": 155,
+                "last_commit": "2026-11-05T06:45:11Z",
+                "open_issues": 156,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2256,
@@ -1381,7 +1381,7 @@
                 "open_issues": 18,
                 "owner": "GiulioRossetti",
                 "repo": "cdlib",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "cdlib",
                   "community-detection",
@@ -1702,7 +1702,7 @@
                 "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "edgebundle",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "graph-algorithms",
                   "network-analysis",
@@ -2024,7 +2024,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4806,
+            "stars": 4805,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:55:01.483Z",
+    "last_updated": "2026-11-05T07:16:12.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2162,10 +2162,10 @@
       "language": "R",
       "license": null,
       "last_commit": "2026-08-20T13:22:11Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4144,
+      "stars": 4145,
       "topics": [
         "awesome",
         "awesome-list",
