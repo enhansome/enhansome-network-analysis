@@ -111,7 +111,7 @@
             "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6694,
+            "stars": 6695,
             "topics": [
               "graph",
               "graph-analytics",
@@ -412,8 +412,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T06:45:11Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-05T17:14:24Z",
+                "open_issues": 157,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2256,
@@ -572,8 +572,8 @@
                 "id": 530290705,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T09:15:36Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-05T16:07:06Z",
+                "open_issues": 55,
                 "owner": "gephi",
                 "repo": "gephi-lite",
                 "stars": 355,
@@ -1215,8 +1215,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T06:45:11Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-05T17:14:24Z",
+                "open_issues": 157,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2256,
@@ -1251,7 +1251,7 @@
                 "open_issues": 144,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1778,
+                "stars": 1779,
                 "topics": [
                   "dag",
                   "graph",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:16:12.864Z",
+    "last_updated": "2026-11-06T07:15:58.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 24,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4145,
+      "stars": 4146,
       "topics": [
         "awesome",
         "awesome-list",
