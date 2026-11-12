@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
-                "stars": 442,
+                "stars": 443,
                 "topics": [
                   "datasets",
                   "indiana-university",
@@ -111,7 +111,7 @@
             "open_issues": 441,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6699,
+            "stars": 6700,
             "topics": [
               "graph",
               "graph-analytics",
@@ -416,7 +416,7 @@
                 "open_issues": 157,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2257,
+                "stars": 2258,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -821,7 +821,7 @@
                 "id": 23362179,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T03:09:10Z",
+                "last_commit": "2026-11-11T21:28:55Z",
                 "open_issues": 5,
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
@@ -1131,11 +1131,11 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-11T04:52:47Z",
-                "open_issues": 349,
+                "last_commit": "2026-11-12T07:18:12Z",
+                "open_issues": 345,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2580,
+                "stars": 2581,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1177,7 +1177,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2291,
+                "stars": 2292,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1219,7 +1219,7 @@
                 "open_issues": 157,
                 "owner": "rapidsai",
                 "repo": "cugraph",
-                "stars": 2257,
+                "stars": 2258,
                 "topics": [
                   "complex-networks",
                   "cuda",
@@ -1248,7 +1248,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T14:26:28Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
                 "stars": 1780,
@@ -1628,7 +1628,7 @@
                 "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1750,
+                "stars": 1749,
                 "topics": [
                   "graph",
                   "graph-functions",
@@ -1962,7 +1962,7 @@
                     "open_issues": 29,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
-                    "stars": 1680,
+                    "stars": 1681,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:59:09.097Z",
+    "last_updated": "2026-11-12T07:36:43.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 23,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4147,
+      "stars": 4149,
       "topics": [
         "awesome",
         "awesome-list",
