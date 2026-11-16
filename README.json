@@ -222,7 +222,7 @@
             "open_issues": 6,
             "owner": "sknetwork-team",
             "repo": "scikit-network",
-            "stars": 633,
+            "stars": 634,
             "topics": []
           },
           "first_seen": "2026-08-28T12:05:05.821Z"
@@ -1131,8 +1131,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T07:00:06Z",
-                "open_issues": 361,
+                "last_commit": "2026-11-16T06:05:02Z",
+                "open_issues": 368,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2582,
@@ -1248,10 +1248,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-12T14:22:43Z",
-                "open_issues": 144,
+                "open_issues": 146,
                 "owner": "Qiskit",
                 "repo": "rustworkx",
-                "stars": 1780,
+                "stars": 1782,
                 "topics": [
                   "dag",
                   "graph",
@@ -2066,7 +2066,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2454,
+            "stars": 2453,
             "topics": [
               "bigclam",
               "clustering",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:02:59.505Z",
+    "last_updated": "2026-11-16T07:09:49.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2165,7 @@
       "open_issues": 23,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4150,
+      "stars": 4151,
       "topics": [
         "awesome",
         "awesome-list",
