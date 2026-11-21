@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "CambridgeUniversityPress",
                 "repo": "FirstCourseNetworkScience",
-                "stars": 441,
+                "stars": 443,
                 "topics": [
                   "datasets",
                   "indiana-university",
@@ -107,11 +107,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T19:12:58Z",
-            "open_issues": 443,
+            "last_commit": "2026-11-21T05:32:33Z",
+            "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6703,
+            "stars": 6704,
             "topics": [
               "graph",
               "graph-analytics",
@@ -412,8 +412,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T00:25:32Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-20T22:11:35Z",
+                "open_issues": 153,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2260,
@@ -677,7 +677,7 @@
                     "language": "JavaScript",
                     "license": "ISC",
                     "last_commit": "2026-11-03T05:55:30Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "d3",
                     "repo": "d3-force",
                     "stars": 2013,
@@ -821,7 +821,7 @@
                 "id": 23362179,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T18:12:44Z",
+                "last_commit": "2026-11-20T17:26:20Z",
                 "open_issues": 5,
                 "owner": "JuliaPhylo",
                 "repo": "PhyloNetworks.jl",
@@ -1135,7 +1135,7 @@
                 "open_issues": 379,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2581,
+                "stars": 2582,
                 "topics": [
                   "csv",
                   "cudf",
@@ -1215,8 +1215,8 @@
                 "id": 157752451,
                 "language": "Cuda",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T00:25:32Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-20T22:11:35Z",
+                "open_issues": 153,
                 "owner": "rapidsai",
                 "repo": "cugraph",
                 "stars": 2260,
@@ -1628,7 +1628,7 @@
                 "open_issues": 172,
                 "owner": "rich-iannone",
                 "repo": "DiagrammeR",
-                "stars": 1748,
+                "stars": 1749,
                 "topics": [
                   "graph",
                   "graph-functions",
@@ -1958,12 +1958,15 @@
                     "id": 49157768,
                     "language": null,
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-08T07:42:44Z",
-                    "open_issues": 36,
+                    "last_commit": "2026-11-20T10:59:59Z",
+                    "open_issues": 0,
                     "owner": "egeerardyn",
                     "repo": "awesome-LaTeX",
                     "stars": 1685,
-                    "topics": []
+                    "topics": [
+                      "awesome",
+                      "awesome-list"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:05:05.821Z"
                 }
@@ -2153,7 +2156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:40:21.685Z",
+    "last_updated": "2026-11-21T07:37:59.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome network analysis resources.",
@@ -2165,7 +2168,7 @@
       "open_issues": 23,
       "owner": "briatte",
       "repo": "awesome-network-analysis",
-      "stars": 4154,
+      "stars": 4156,
       "topics": [
         "awesome",
         "awesome-list",
